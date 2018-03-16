@@ -1,12 +1,11 @@
 db_conf/
 lib/
 dist/
-.settings/
-build/
+.settings
+build
 .classpath
-nbproject/
+nbproject
 opisiame/src/opisiame/database/propriete_db.properties
-opisiame/src/opisiame/image/
 .DS_Store
 .project
 *.log
